@@ -44,7 +44,6 @@ mindset: "Think like an attacker, defend like an engineer"
 </td>
 <td align="center" width="50%">
 
-
 ## 🌐 Socials
 
 <div align="center">
@@ -92,8 +91,6 @@ mindset: "Think like an attacker, defend like an engineer"
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
-
-## 📊 GitHub Stats
 
 <div align="center">
 
