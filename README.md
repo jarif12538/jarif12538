@@ -15,8 +15,6 @@
   
   <p>─────────────── 🛡️ ───────────────</p>
 </div>
----
-
 
 ### 🧬 About Me
 ```yaml
@@ -58,8 +56,6 @@ mindset: "Think like an attacker, defend like an engineer"
 
 </div>
 
----
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -97,8 +93,6 @@ mindset: "Think like an attacker, defend like an engineer"
 
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -133,8 +127,6 @@ mindset: "Think like an attacker, defend like an engineer"
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jarif12538/jarif12538/output/pacman-contribution-graph.svg">
 </picture>
 </div>
-
----
 
 <div align="center">
 
