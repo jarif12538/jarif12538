@@ -97,13 +97,19 @@ mindset: "Think like an attacker, defend like an engineer"
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=jarif12538&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+<div align="center">
 
-![](https://streak-stats.demolab.com/?user=jarif12538&theme=radical&hide_border=false)<br/>
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=jarif12538&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jarif12538&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=jarif12538&theme=radical&hide_border=false)
+
+<br/>
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=jarif12538&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 </div>
-
 
 ## ✍️ Dev Quote of the Day
 
